@@ -1,0 +1,6 @@
+[cache]
+    dir = cache
+[core]
+    remote = labstore
+['remote "labstore"']
+    url = gs://income-day21-2a202602722-20261007/dvc
